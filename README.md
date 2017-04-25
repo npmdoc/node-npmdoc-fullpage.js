@@ -1,4 +1,7 @@
-# api documentation for  [fullpage.js (v2.9.4)](https://github.com/alvarotrigo/fullPage.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-fullpage.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fullpage.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fullpage.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fullpage.js)
+# npmdoc-fullpage.js
+
+#### basic api documentation for  [fullpage.js (v2.9.4)](https://github.com/alvarotrigo/fullPage.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-fullpage.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fullpage.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fullpage.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fullpage.js)
+
 #### Create beautiful fullscreen scrolling websites
 
 [![NPM](https://nodei.co/npm/fullpage.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fullpage.js)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.9.4"
+    "version": "2.9.4",
+    "bin": {}
 }
 ```
 
